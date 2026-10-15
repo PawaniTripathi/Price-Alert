@@ -1,0 +1,14 @@
+{
+  "name": "price-alert-tool",
+  "version": "1.0.0",
+  "description": "Wissen Technologies Price Alert Tool — campus technical assessment",
+  "type": "module",
+  "main": "alerts.js",
+  "scripts": {
+    "start": "node alerts.js",
+    "test": "node --test ./tests/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

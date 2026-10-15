@@ -1,0 +1,4 @@
+[
+  {"id":"a1","instrument":"RELIANCE","type":"level","direction":"above","level":2500},
+  {"id":"b1","instrument":"RELIANCE","type":"level","direction":"below","level":2500}
+]
